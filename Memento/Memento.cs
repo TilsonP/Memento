@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Memento
 {
-    public class Memento
-    {
+	public class Memento
+	{
 		private Juego estado;
 
 		public Memento(Juego estado)

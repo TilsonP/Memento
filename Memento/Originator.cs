@@ -9,7 +9,7 @@ namespace Memento
 		private Juego estado;
 
 		public void setEstado(Juego estado)
-		{
+		{			
 			this.estado = estado;
 		}
 
